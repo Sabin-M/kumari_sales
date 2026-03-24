@@ -1,0 +1,55 @@
+.al{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Poppins;
+    
+}
+.marg{
+    margin-left: 1200px;
+}
+#pad{
+padding-top: 7px;
+    padding-bottom: 3px;
+}
+.navbar-brand {
+  letter-spacing: 3px;
+  color: #c24244;
+   font-family: poppins;
+   margin-left: 30px;
+}
+
+.navbar-brand:hover {
+	color: #c24244;
+}
+
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+  color: #7f4722;
+  
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+  color: #7f4722;
+}
+
+.navbar-scrolled {
+  background-color: #ffede7;
+}
+#ai{
+    font-family: poppins;
+    font-size: 20px;
+}
+.menu-link.active {
+    font-weight: bold;
+    color: #2c6b52 !important; /* optional highlight color */
+}
+.card{
+  font-family: poppins;
+}
+#hed{
+  font-family: poppins;
+}
+#suggestions a:hover {
+    background-color: #f8f9fa;
+}
