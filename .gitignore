@@ -1,0 +1,17 @@
+# Database files (keeps your local data private)
+*.sqlite3
+*.db
+
+# Python virtual environments (never upload these to GitHub)
+venv/
+.venv/
+env/
+.ml/
+
+# Python cache and byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
