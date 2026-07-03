@@ -3,5 +3,4 @@ services:
     name: kumari-sales
     env: python
     plan: free
-    buildCommand: bash render-build.sh
     startCommand: gunicorn kumari.wsgi
